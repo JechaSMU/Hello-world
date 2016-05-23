@@ -8,3 +8,5 @@ I'm leaning github.  Taking a course in data science at SMU which has me totally
 Well, here's hoping that things will get better!
 
 jj
+
+PS. why didn't this work.
